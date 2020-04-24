@@ -1,4 +1,4 @@
-### Regex Based Email Validator for React Native
+### Regex Based Email Validator for React Native using AJ-EMAIL-VALIDATOR @ https://www.npmjs.com/package/aj-email-validator 
 
 
 ## Run this example 
