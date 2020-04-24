@@ -28,7 +28,7 @@ import EmailValidator from 'aj-email-validator'
 ```
 ### 2) Call the function by passing
 ```sh
-if ( EmailValidator(emailString) == true ) {
+if ( EmailValidator(emailString)) {
     alert('Email is Valid')
 }
 else{
